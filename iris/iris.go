@@ -1,11 +1,11 @@
 package iris
 
 import (
-	"go-ml.dev/pkg/iokit"
 	"go-ml.dev/pkg/base/fu/lazy"
 	"go-ml.dev/pkg/base/model"
 	"go-ml.dev/pkg/base/tables"
 	"go-ml.dev/pkg/base/tables/csv"
+	"go-ml.dev/pkg/iokit"
 )
 
 func source(x string) iokit.Input {

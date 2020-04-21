@@ -2,12 +2,12 @@ package mnist
 
 import (
 	"encoding/binary"
-	"github.com/sudachen/go-iokit/iokit"
 	"go-ml.dev/pkg/base/fu"
 	"go-ml.dev/pkg/base/fu/lazy"
 	"go-ml.dev/pkg/base/model"
 	"go-ml.dev/pkg/base/tables"
-	"github.com/sudachen/go-zorros/zorros"
+	"go-ml.dev/pkg/iokit"
+	"go-ml.dev/pkg/zorros/zorros"
 	"io/ioutil"
 	"reflect"
 )
