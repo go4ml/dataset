@@ -7,7 +7,7 @@ import (
 	"go-ml.dev/pkg/base/model"
 	"go-ml.dev/pkg/base/tables"
 	"go-ml.dev/pkg/iokit"
-	"go-ml.dev/pkg/zorros/zorros"
+	"go-ml.dev/pkg/zorros"
 	"io/ioutil"
 	"reflect"
 )

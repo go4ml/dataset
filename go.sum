@@ -184,6 +184,8 @@ go-ml.dev/pkg/iokit v0.0.0-20200421032144-20a83223314f h1:kLhn982ca+hg9VZo/c2m1G
 go-ml.dev/pkg/iokit v0.0.0-20200421032144-20a83223314f/go.mod h1:UH3RX/XgcHMdBM3u14ou1ZxNaV3C/oGqL35rv2IR+bI=
 go-ml.dev/pkg/zorros v0.0.0-20200421052725-baf473e55a7a h1:G+pByHhtM6QNXrn5sxSrg+ZDDIR6eOfiWqUKQt80HQo=
 go-ml.dev/pkg/zorros v0.0.0-20200421052725-baf473e55a7a/go.mod h1:Hsb0C6emGYIpIuwBfwK/b1Jwec7HXAx7KpmfoEXq1CU=
+go-ml.dev/pkg/zorros v0.0.0-20200421055828-4ca73b7090e7 h1:mvMotTDFrMWbEl1wOlynvYXUHoWGSgP55Cajl5WzHWU=
+go-ml.dev/pkg/zorros v0.0.0-20200421055828-4ca73b7090e7/go.mod h1:Hsb0C6emGYIpIuwBfwK/b1Jwec7HXAx7KpmfoEXq1CU=
 go.opencensus.io v0.21.0 h1:mU6zScU4U1YAFPHEHYk+3JC4SY7JxgkqS10ZOSyksNg=
 go.opencensus.io v0.21.0/go.mod h1:mSImk1erAIZhrmZN+AvHh14ztQfjbGwt4TtuofqLduU=
 golang.org/x/crypto v0.0.0-20181203042331-505ab145d0a9/go.mod h1:6SG95UA2DQfeDnfUPMdvaQW0Q7yPrPDi9nlGo2tz2b4=
