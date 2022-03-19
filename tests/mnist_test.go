@@ -1,7 +1,7 @@
 package tests
 
 import (
-	"go-ml.dev/pkg/dataset/mnist"
+	"go4ml.xyz/dataset/mnist"
 	"gotest.tools/assert"
 	"testing"
 )

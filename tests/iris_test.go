@@ -1,7 +1,7 @@
 package tests
 
 import (
-	"go-ml.dev/pkg/dataset/iris"
+	"go4ml.xyz/dataset/iris"
 	"gotest.tools/assert"
 	"testing"
 )
