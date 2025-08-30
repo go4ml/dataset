@@ -2,19 +2,21 @@ package mnist
 
 import (
 	"encoding/binary"
+	"io/ioutil"
+	"reflect"
+
 	"go4ml.xyz/base/fu"
 	"go4ml.xyz/base/fu/lazy"
 	"go4ml.xyz/base/model"
 	"go4ml.xyz/base/tables"
 	"go4ml.xyz/iokit"
 	"go4ml.xyz/zorros"
-	"io/ioutil"
-	"reflect"
 )
 
 func source(x string) iokit.Input {
 	return iokit.Compressed(
-		iokit.Url("http://yann.lecun.com/exdb/mnist/"+x,
+		//iokit.Url("http://yann.lecun.com/exdb/mnist/"+x,
+		iokit.Url("https://github.com/go4ml/assets/raw/refs/heads/main/mnist/"+x,
 			iokit.Cache("go-ml/dataset/mnist/"+x)))
 }
 
